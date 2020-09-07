@@ -1,7 +1,7 @@
 > _[Raw version](https://github.com/nicolas-gautron/nicolas-gautron.github.io)_ | _[Online version](https://nicolas-gautron.github.io/) Print it for a PDF export._
 
 
-# Nicolas Gautron - Lead developer
+# Nicolas Gautron - Back-end developer - architect
 
 ![Nicolas Gautron](assets/NicolasGautron.jpeg)
 
@@ -22,8 +22,6 @@
 
 &nbsp;
 
-✔ Leader of a team of 5.
-
 ✔ 10 years of experience in PHP.
 
 ✔ Open to all technologies.
@@ -37,7 +35,7 @@ I like to organize things, to test some new processes or methodologies, to fail,
 
 ##### Empathetic / harmoniser at 100%
 
-As a leader and manager, there is no ritual more important for me than the ones allowing the feedbacks and the global communication: retrospective, one-to-one, mood of the week, team health check. I like to involve my team in the decisions, basing some meetings on formats inspired of the holacracy world and encouraging everyone to speak freely. I trust my team members and their professionalism, giving them the leadership on their subjects, making them autonomous as much as possible, allowing them to communicate with partners and to deploy some features in production without my approval.
+As a leader and manager, there was no ritual more important for me than the ones allowing the feedbacks and the global communication: retrospective, one-to-one, mood of the week, team health check. I liked to involve my team in the decisions, basing some meetings on formats inspired of the holacracy world and encouraging everyone to speak freely. I trusted my team members and their professionalism, giving them the leadership on their subjects, making them autonomous as much as possible, allowing them to communicate with partners and to deploy some features in production without my approval.
 
 ##### Current phase: dreamer / imaginer at 85%
 
@@ -52,8 +50,28 @@ Have a nice day 😊.
 
 ## Experience
 &nbsp;
+### ![deezer logo](assets/deezer.png) Deezer &ndash; Back-end developer - architect
+_August 2020 &ndash; Present_ 
+
+Payment team
+
+##### Missions
+As lead developer, I was mainly focused on the day-to-day delivery: short term projects, daily bug and incident management.
+
+Instead of being responsible for the team implementing the functionalities, my job is now centralized around the conception and the implementation of both technical and business oriented long term projects.
+
+
+##### Example of subjects
+
+* New logging and monitoring strategy with the ELK / Elastic Stack.
+
+* Event based communication through Kafka.
+
+\
+&nbsp;
+
 ### ![deezer logo](assets/deezer.png) Deezer &ndash; Lead Payment Engineer
-_July 2018 &ndash; Present_ 
+_July 2018 &ndash; August 2020_ 
 
 Payment team
 
@@ -70,7 +88,6 @@ Payment team
 
 \
 &nbsp;
-
 
 ### ![deezer logo](assets/deezer.png) Deezer &ndash; Web developer
  
