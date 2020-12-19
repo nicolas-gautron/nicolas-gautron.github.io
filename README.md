@@ -1,4 +1,4 @@
-> _[Raw version](https://github.com/nicolas-gautron/nicolas-gautron.github.io)_ | _[Online version](https://nicolas-gautron.github.io/)_ | :fr: _[French PDF](NicolasGautronCV_FR.pdf)_
+> _[Raw version](https://github.com/nicolas-gautron/nicolas-gautron.github.io)_ | _[Online version](https://nicolas-gautron.github.io/)_ | :us: _[English PDF](NicolasGautronCV_EN.pdf)_ | :fr: _[French PDF](NicolasGautronCV_FR.pdf)_
 
 
 # Nicolas Gautron - Back-end developer - architect
