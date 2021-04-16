@@ -1,6 +1,6 @@
 # Jekyll config
-name: Nicolas Gautron - Back-end developer - architect
-description: 10 years of experience in PHP. Open to all technologies.
+name: Nicolas Gautron - Freelance web developer
+description: 10+ years of experience in PHP. Open to all technologies.
 defaults:
   - scope:
       path: ""

@@ -1,19 +1,21 @@
-> _[Raw version](https://github.com/nicolas-gautron/nicolas-gautron.github.io)_ | _[Online version](https://nicolas-gautron.github.io/)_ | :us: _[English PDF](NicolasGautronCV_EN.pdf)_ | :fr: _[French PDF](NicolasGautronCV_FR.pdf)_
+> _[Raw version](https://github.com/nicolas-gautron/nicolas-gautron.github.io "Raw version on Github")_ | _[Online version](https://nicolas-gautron.github.io/ "Online version")_ | :us: _[English PDF](NicolasGautronCV_EN.pdf "Nicolas Gautron - English resume")_ | :fr: _[French PDF](NicolasGautronCV_FR.pdf "Nicolas Gautron - French resume")_
 
 
-# Nicolas Gautron - Back-end developer - architect
+# Nicolas Gautron - Freelance web developer
 
 ![Nicolas Gautron](assets/NicolasGautron.jpeg)
 
-:email: [gautron.nicolas@gmail.com](mailto:gautron.nicolas@gmail.com)
+:email: [nicolas.gautron@ohhappy.dev](mailto:nicolas.gautron@ohhappy.dev "Send me an email")
 
 :birthday: Born in 1989
 
 :earth_africa: From Paris in France
 
-![Linkedin logo](assets/linkedin.png) [nicolasgautron](https://www.linkedin.com/in/nicolasgautron)
+![Linkedin logo](assets/linkedin.png) [nicolasgautron](https://www.linkedin.com/in/nicolasgautron "Nicolas Gautron on Linkedin")
 
-![Githu  logo](assets/github.png) [nicolas-gautron](https://github.com/nicolas-gautron)
+![Malt logo](assets/malt.png) [ohhappydev](https://www.malt.fr/profile/ohhappydev "Nicolas Gautron on Malt")
+
+![Github logo](assets/github.png) [nicolas-gautron](https://github.com/nicolas-gautron "Nicolas Gautron on Github")
 
 \
 &nbsp;
@@ -50,15 +52,26 @@ Have a nice day 😊.
 
 ## Experience
 &nbsp;
+
+### ![oh happy dev logo](assets/oh_happy_dev.png) Oh Happy Dev &ndash; Freelance web developer
+_July 2021 &ndash; Present_
+
+[https://ohhappy.dev](https://ohhappy.dev "Nicolas Gautron - freelance web developer")
+
+Count on me to join your team and to carry out all kinds of subjects and responsibilities: development, architecture, team and project management, consulting... 
+
+\
+&nbsp;
+
 ### ![deezer logo](assets/deezer.png) Deezer &ndash; Back-end developer - architect
-_August 2020 &ndash; Present_ 
+_August 2020 &ndash; June 2021_ 
 
 Payment team
 
 ##### Missions
 As lead developer, I was mainly focused on the day-to-day delivery: short term projects, daily bug and incident management.
 
-Instead of being responsible for the team implementing the functionalities, my job is now centralized around the conception and the implementation of both technical and business oriented long term projects.
+Instead of being responsible for the team implementing the functionalities, my job was centralized around the conception and the implementation of both technical and business oriented long term projects.
 
 
 ##### Example of subjects
@@ -235,7 +248,7 @@ _2007 &ndash; 2009_
 
 ### ![tuto4dev logo](assets/tuto4dev.jpg) - launched in 2020
 
-https://tuto4.dev
+[https://tuto4.dev](https://tuto4.dev "Tutorials for web developers")
 
 Easy and short tutorials for developers on a lot of subjects like
  docker, PHP, nodejs, web marketing and many other developer skills.
@@ -269,9 +282,9 @@ retrieving the data.
 \
 &nbsp;
 
-### ![tuto4dev logo](assets/informatix.png) - launched in 2009
+### ![informatix logo](assets/informatix.png) - launched in 2009
 
-http://www.informatix.fr
+[http://www.informatix.fr](http://www.informatix.fr "Tutorials for web developers in french")
 
 It's the french version of tuto4.dev.
 
