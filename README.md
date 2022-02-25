@@ -9,7 +9,7 @@
 
 :birthday: Born in 1989
 
-:earth_africa: From Paris in France
+:earth_africa: From Paris, France
 
 ![Linkedin logo](assets/linkedin.png) [nicolasgautron](https://www.linkedin.com/in/nicolasgautron "Nicolas Gautron on Linkedin")
 
@@ -24,13 +24,13 @@
 
 &nbsp;
 
-✔ 10 years of experience in PHP.
+✔ 10 years experience in PHP.
 
 ✔ Open to all technologies.
 
 &nbsp;
 
-Followed by a professional coach during two years, I had the chance to experience several psychological tools and models. While the Process Communication represents the way we all communicate with each other, in my case, I find the result really representative of my whole personality:
+Followed by a professional coach during two years, I've had the opportunity to test several psychological tools and models. While the Process Communication represents the way we all communicate with each other, in my case, I find the result really representative of my whole personality:
 ##### Base: thinker at 100%
 
 I like to organize things, to test new processes or methodologies, to fail, to test again and to adapt to new situations. I'm quite direct in my communication and while I'm able to assume the political part of my job, I avoid it as much as I can.
@@ -41,7 +41,7 @@ As a former team leader and manager, there is no ritual more important for me th
 
 ##### Current phase: dreamer / imaginer at 85%
 
-If someone asked me the part of my job I prefer, I would definitely answer: the architectural conception of a subject. I love Identifying and understanding both the business and technical concepts and their responsibilities. In my job, I value the continuous apprenticeship of the business as much as the technical aspects. Creating an ubiquitous language and understanding the separation and the links between the concerns is for me a key success factor for the long term maintainability and testability of a platform. I often need some quiet time to think and to conceptualize this kind of things on my own before bringing the subject to the team.
+If someone asked me the part of my job I prefer, my answer would definitely be: the architectural conception of a subject. I love Identifying and understanding both the business and technical concepts and their responsibilities. In my job, I value the continuous apprenticeship of the business as much as the technical aspects. Creating an ubiquitous language and understanding the separation and the links between the concerns is for me a key success factor for the long term maintainability and testability of a platform. I often need some quiet time to think and to conceptualize this kind of things on my own before bringing the subject to the team.
 
 Feel free to contact me for more information.
 
@@ -51,6 +51,34 @@ Have a nice day 😊.
 &nbsp;
 
 ## Experience
+&nbsp;
+
+### ![l'équipe logo](assets/lequipe.jpeg) L'Équipe &ndash; Freelance back-end developer
+_July 2021 &ndash; Present_
+
+##### Missions
+* Rework of the subscription management system.
+
+* Rework of Android and iOS in-app purchase integrations to support the last versions and features: offer changes, payment retry periods and so on...
+
+* Support on the integration of Subscribe With Google.
+
+* Rework of Google Sign-In.
+
+
+##### Main technologies
+
+* Symfony 4 on PHP 7.
+
+* Microservices architecture mainly based on RabbitMQ and API Platform. 
+
+* PHPUnit and Behat for the tests.
+
+* Jira for the project management.
+
+* Gitlab for the code review.
+
+\
 &nbsp;
 
 ### ![oh happy dev logo](assets/oh_happy_dev.png) Oh Happy Dev &ndash; Freelance web developer
@@ -63,7 +91,7 @@ Contact me if you need any help in your technical team : development, consulting
 \
 &nbsp;
 
-### ![deezer logo](assets/deezer.png) Deezer &ndash; Back-end developer - architect
+### ![deezer logo](assets/deezer.png) Deezer &ndash; Back-end architect
 _August 2020 &ndash; June 2021_ 
 
 Payment team
