@@ -30,14 +30,14 @@
 
 &nbsp;
 
-Followed by a professional coach during two years, I had the chance to experiment several psychological tools and models. While the Process Communication represents the way we all communicate with each other, in my case, I find the result really representative of my whole personality:
+Followed by a professional coach during two years, I had the chance to experience several psychological tools and models. While the Process Communication represents the way we all communicate with each other, in my case, I find the result really representative of my whole personality:
 ##### Base: thinker at 100%
 
-I like to organize things, to test some new processes or methodologies, to fail, to test again and to adapt to new situations. I'm quite direct in my communication and while I'm able to assume the political part of my job, I avoid it as much as I can.
+I like to organize things, to test new processes or methodologies, to fail, to test again and to adapt to new situations. I'm quite direct in my communication and while I'm able to assume the political part of my job, I avoid it as much as I can.
 
 ##### Empathetic / harmoniser at 100%
 
-As a leader and manager, there was no ritual more important for me than the ones allowing the feedbacks and the global communication: retrospective, one-to-one, mood of the week, team health check. I liked to involve my team in the decisions, basing some meetings on formats inspired of the holacracy world and encouraging everyone to speak freely. I trusted my team members and their professionalism, giving them the leadership on their subjects, making them autonomous as much as possible, allowing them to communicate with partners and to deploy some features in production without my approval.
+As a former team leader and manager, there is no ritual more important for me than the ones allowing the feedback and the global communication: retrospective, one-to-one, mood of the week, team health check. I liked to involve my team in the decisions, basing some meetings on formats inspired by the holacracy world and encouraging everyone to speak freely. I trusted my team members and their professionalism, giving them the leadership on their subjects, making them autonomous as much as possible, allowing them to communicate with partners and to deploy some features in production without my approval.
 
 ##### Current phase: dreamer / imaginer at 85%
 
@@ -58,7 +58,7 @@ _July 2021 &ndash; Present_
 
 [https://ohhappy.dev](https://ohhappy.dev "Nicolas Gautron - freelance web developer")
 
-Count on me to join your team and to carry out all kinds of subjects and responsibilities: development, architecture, team and project management, consulting... 
+Contact me if you need any help in your technical team : development, consulting, architecture, management...
 
 \
 &nbsp;
@@ -69,9 +69,9 @@ _August 2020 &ndash; June 2021_
 Payment team
 
 ##### Missions
-As lead developer, I was mainly focused on the day-to-day delivery: short term projects, daily bug and incident management.
+In my previous position as a lead developer, I was mainly focused on the day-to-day delivery: short-term projects, daily bug and incident management.
 
-Instead of being responsible for the team implementing the functionalities, my job was centralized around the conception and the implementation of both technical and business oriented long term projects.
+Now as an architect, instead of being responsible for the team implementing the functionalities, my job is centralized around the conception and the implementation of both technical and business-oriented long-term projects.
 
 
 ##### Example of subjects
@@ -91,11 +91,11 @@ Payment team
 ##### Missions
 * Manage the development team, between 5 and 7 developers.
 
-* Ensure the team well-being with regular one-to-one, performance reviews and ritual set-ups inspired by the Agile and the Holacracy worlds.
+* Ensure team well-being with regular one-to-one, performance reviews and ritual set-ups inspired by the Agile and the Holacracy worlds.
 
 * Build the team with the hiring and the onboarding of 5 new team members.
 
-* Guide the technical conceptions, keeping an eye and giving advices on the delivery but making the developers independent on their subjects.
+* Guide technical conception, keeping an eye and giving advice on the delivery but making the developers independent on their subjects.
 
 * Code around 10% of my time, because actually: I love it.
 
@@ -110,9 +110,9 @@ Payment team
 
 ##### Missions
 
-* Management of the offers and the recurring subscriptions.
+* Management of offers and recurring subscriptions.
 
-* Rework of the B2C payment journeys.
+* Rework of B2C payment journeys.
 
 * Deployment of new global and local payment methods in an international context.
 
