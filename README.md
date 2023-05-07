@@ -24,24 +24,32 @@
 
 &nbsp;
 
-✔ 10 years experience in PHP.
+✔ 10+ years experience in PHP.
 
 ✔ Open to all technologies.
 
 &nbsp;
 
-Followed by a professional coach during two years, I've had the opportunity to test several psychological tools and models. While the Process Communication represents the way we all communicate with each other, in my case, I find the result really representative of my whole personality:
+Followed by a professional coach for two years, I've had the opportunity to test several psychological models. The Process Communication represents the way we all communicate with each other. In my case, I find the result representative of my whole personality:
+
 ##### Base: thinker at 100%
 
-I like to organize things, to test new processes or methodologies, to fail, to test again and to adapt to new situations. I'm quite direct in my communication and while I'm able to assume the political part of my job, I avoid it as much as I can.
+I like to test new methodologies, to fail and to adapt.
+
+I'm direct in my communication. While I'm able to assume the political part of my job, I avoid it as much as I can.
 
 ##### Empathetic / harmoniser at 100%
 
-As a former team leader and manager, there is no ritual more important for me than the ones allowing the feedback and the global communication: retrospective, one-to-one, mood of the week, team health check. I liked to involve my team in the decisions, basing some meetings on formats inspired by the holacracy world and encouraging everyone to speak freely. I trusted my team members and their professionalism, giving them the leadership on their subjects, making them autonomous as much as possible, allowing them to communicate with partners and to deploy some features in production without my approval.
+As a former team leader and manager, there is no ritual more important for me than the ones allowing the feedback and the global communication: retrospective, 1 - 1.
+
+I like meeting formats inspired by the holacracy world. They encourage everyone to speak freely and participate in the decision making.
 
 ##### Current phase: dreamer / imaginer at 85%
 
-If someone asked me the part of my job I prefer, my answer would definitely be: the architectural conception of a subject. I love Identifying and understanding both the business and technical concepts and their responsibilities. In my job, I value the continuous apprenticeship of the business as much as the technical aspects. Creating an ubiquitous language and understanding the separation and the links between the concerns is for me a key success factor for the long term maintainability and testability of a platform. I often need some quiet time to think and to conceptualize this kind of things on my own before bringing the subject to the team.
+Software architecture is the part of the job I prefer.
+
+Identifying concepts, split responsibilities, communicate to build an ubiquitous language...
+These are for me the key success factors for the long term maintainability and testability of a platform.
 
 Feel free to contact me for more information.
 
@@ -68,7 +76,7 @@ _July 2021 &ndash; Present_
 
 ##### Main technologies
 
-* Symfony 4 on PHP 7.
+* Symfony 5 on PHP 8.
 
 * Microservices architecture mainly based on RabbitMQ and API Platform. 
 
@@ -274,9 +282,26 @@ _2007 &ndash; 2009_
 
 &nbsp;
 
-### ![tuto4dev logo](assets/tuto4dev.jpg) - launched in 2020
+### ![the tech guide logo](assets/thetechguide.jpg) - launched in 2023
+[https://fr.the-guide.tech](https://fr.the-guide.tech "Newsletter to learn technical basics")
 
-[https://tuto4.dev](https://tuto4.dev "Tutorials for web developers")
+Monthly newsletter explaining the basics of the tech world to non-tech people.
+
+Product managers, recruiters, marketers or anyone eager to expand their technical knowledge.
+
+##### Main technologies
+
+* VueJS 3 with the use of NuxtJS. The final result is generated as static files for the production.
+
+* Laravel with Sendgrid for the CRM.
+
+\
+&nbsp;
+
+### ![tuto4dev logo](assets/tuto4dev.jpg) and ![tuto2dev logo](assets/tuto2dev.jpg) - launched in 2020
+
+[https://tuto4.dev](https://tuto4.dev "Tutorials for web developers") (english) and 
+[https://tuto2.dev](https://tuto2.dev "Tutorials for web developers in French") (french)
 
 Easy and short tutorials for developers on a lot of subjects like
  docker, PHP, nodejs, web marketing and many other developer skills.
@@ -306,24 +331,3 @@ retrieving the data.
 * Microdata
 
 * Server-side rendering and generation of static files.
-
-\
-&nbsp;
-
-### ![informatix logo](assets/informatix.png) - launched in 2009
-
-[http://www.informatix.fr](http://www.informatix.fr "Tutorials for web developers in french")
-
-It's the french version of tuto4.dev.
-
-During my apprenticeship with Orange, the team gave me the time to learn
-the Zend Framework and to build my own side project as a Proof Of Concept
-of a real internal project.
-
-* PHP 7 with the Zend Framework.
- 
-* Doctrine.
-
-* Bootstrap Twitter.
-
-* Less CSS.
